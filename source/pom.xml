@@ -2,8 +2,10 @@
 	<project>
 	<status>
 		<link>
-			<bin>
-				<bash>
+			<vim>
+				<link>
+					<got>
+
 
 		
 
